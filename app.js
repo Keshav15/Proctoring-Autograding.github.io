@@ -7,7 +7,7 @@ function addcomment()
     
 
     document
-    .getElementById("Comments")
+    .getElementById("Commen")
     .innerHTML +=message;
     
 } 
